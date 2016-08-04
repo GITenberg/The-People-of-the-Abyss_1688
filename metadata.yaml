@@ -1,0 +1,43 @@
+_repo: The-People-of-the-Abyss_1688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: "The People of the Abyss (1903) is a book by Jack London about life in\
+  \ the East End of London in 1902. He wrote this first-hand account after living\
+  \ in the East End (including the Whitechapel District) for several months, sometimes\
+  \ staying in workhouses or sleeping on the streets. The conditions he experienced\
+  \ and wrote about were the same as those endured by an estimated 500,000 of the\
+  \ contemporary London poor.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1688'
+  wikidata: Q530172
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Poor -- England -- London'
+- !lcsh 'London (England) -- Social conditions'
+- GITenberg
+title: The People of the Abyss
+url: http://www.gutenberg.org/ebooks/1688
+wikipedia:
+- https://zh.wikipedia.org/wiki/%E6%B7%B1%E6%B7%B5%E5%B1%85%E6%B0%91
+- https://ja.wikipedia.org/wiki/%E3%81%A9%E3%82%93%E5%BA%95%E3%81%AE%E4%BA%BA%E3%81%B3%E3%81%A8
+- https://fa.wikipedia.org/wiki/%D8%AA%D9%87%DB%8C%D8%AF%D8%B3%D8%AA%D8%A7%D9%86
+- https://es.wikipedia.org/wiki/La_gente_del_abismo
+- https://en.wikipedia.org/wiki/The_People_of_the_Abyss
+- https://it.wikipedia.org/wiki/Il_popolo_degli_abissi
+- https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B4%D0%B8_%D0%B1%D0%B5%D0%B7%D0%B4%D0%BD%D1%8B
+- https://tr.wikipedia.org/wiki/U%C3%A7urum_%C4%B0nsanlar%C4%B1
+- https://sv.wikipedia.org/wiki/Avgrundens_folk
